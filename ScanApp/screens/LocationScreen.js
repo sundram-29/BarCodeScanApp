@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { View, Text, Button, StyleSheet, Alert, Platform } from 'react-native';
-import { CameraView, Camera } from 'expo-camera'; // ✅ Correct import for Expo SDK 53+
+import { CameraView, Camera } from 'expo-camera'; // 
 
 // This screen handles scanning a barcode to get the 'location' and passing it to the next screen
 export default function LocationScreen({ navigation }) {
