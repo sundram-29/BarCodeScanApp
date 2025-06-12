@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BarCodeScanApp
 
 BarCodeScanApp is a full-stack mobile application built with React Native (frontend) and Node.js with MongoDB (backend) to scan barcodes, save the scanned data to a database, and view all scanned batches.
@@ -63,3 +64,6 @@ Github: https://github.com/sundram-29
 
 📝 License
 MIT License
+=======
+# BarCodeScanApp
+>>>>>>> b514b47b03330378297c53b8f84b1cc3f14828c8
